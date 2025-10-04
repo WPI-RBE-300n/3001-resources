@@ -14,6 +14,7 @@ This is a guide for validating that your team's `robot.ik3001` function is opera
 | 3           | (281.4007,  0,  224.3253)            | 0             | -15           |
 | 4           | (200, 50, 60)                        | 10            | 70            |
 | 5           | (126, -105, 19)                      | 30            | 90            |
+| 6           | (20, 0, 245)                         | 0             | 15            |
 
 >**Note:** Your team should try to aim for at least under .2 accuracy for each joint
 ### Examples of Testing `robot.ik3001`:
