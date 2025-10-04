@@ -58,7 +58,7 @@ For reference, this is what the entire block should look like:
 ```
  % Find serial port and connect to it
             try
-                self.deviceName = '/dev/ft232h'; % this is the symlinked USB port.
+                self.deviceName = '/dev/rbearm'; % this is the symlinked USB port.
             catch exception
                 error("Failed to connect via serial, no devices found.")
             end
